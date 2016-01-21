@@ -12,9 +12,14 @@ post a link below under an appropriate subheading. if the subheading you want do
 
 feel free to attach notes, loomio discussions, etc, under any of these links.
 
----
+#### weekly discussions
 
----
+if you like, you can join our weekly reading list discussions. they'll take place every Wednesday from 2PM - 3PM (NZ time).
+
+[here's the google hangouts link](https://plus.google.com/hangouts/_/enspiral.com/cobudget-open?authuser=0&hceid=ZGVyZWtyYXpvQGdtYWlsLmNvbQ.4q3lrnb5isu2qfnct4mle6fkas)
+
+and you can click this button to add the event to your calendar:
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NHEzbHJuYjVpc3UycWZuY3Q0bWxlNmZrYXMgZXVnZW5lLmx5bmNoQGRldmFjYWRlbXkuY28ubno&amp;tmsrc=eugene.lynch%40devacademy.co.nz"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
 ---
 
