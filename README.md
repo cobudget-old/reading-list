@@ -4,7 +4,7 @@ a repository for readings relevant to cobudget and its surrounding community.
 
 help grow cobudget's shared knowledge pool by contributing to this repo! increased perspective, context, and thought diversity will make cobudget a better and more versatile tool.
 
-we accept all pull requests (within reason, ofc).
+we accept all pull requests to this repo (within reason, ofc).
 
 #### suggestions for contributing
 
