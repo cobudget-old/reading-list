@@ -29,3 +29,4 @@ and you can click this button to add the event to your calendar:
 - [network inequality:](https://medium.com/@anildash/network-inequality-3309fb1aac59#.nkg4wtkwj) a discussion on prioritizing diversity + inclusion while funding + building new apps
   - [notes (eugene)](https://gist.github.com/data-doge/75fc1c82a7034439604c)
 - [Democratic Money and Capital for the Commons](http://commonsstrategies.org/democratic-money-and-capital-for-the-commons/?utm_content=bufferc9885&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [The State of Academic Bitcoin Research 2015](http://suitpossum.blogspot.co.nz/2016/01/bitcoin-research-2015.html)
