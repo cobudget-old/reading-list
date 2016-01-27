@@ -32,3 +32,4 @@ and you can click this button to add the event to your calendar:
 - [The State of Academic Bitcoin Research 2015](http://suitpossum.blogspot.co.nz/2016/01/bitcoin-research-2015.html)
 - [collaborative credit](http://www.theguardian.com/media-network/media-network-blog/2014/jul/03/collaborative-credit-heal-capitalism)
 - [lets systems](https://en.wikipedia.org/wiki/Local_exchange_trading_system)
+- [Islamic Finance and Bitcoin](http://jibfnet.com/journals/jibf/Vol_3_No_1_June_2015/1.pdf)
