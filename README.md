@@ -30,3 +30,5 @@ and you can click this button to add the event to your calendar:
   - [notes (eugene)](https://gist.github.com/data-doge/75fc1c82a7034439604c)
 - [Democratic Money and Capital for the Commons](http://commonsstrategies.org/democratic-money-and-capital-for-the-commons/?utm_content=bufferc9885&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 - [The State of Academic Bitcoin Research 2015](http://suitpossum.blogspot.co.nz/2016/01/bitcoin-research-2015.html)
+- [collaborative credit](http://www.theguardian.com/media-network/media-network-blog/2014/jul/03/collaborative-credit-heal-capitalism)
+- [lets systems](https://en.wikipedia.org/wiki/Local_exchange_trading_system)
