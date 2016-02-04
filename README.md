@@ -34,3 +34,4 @@ and you can click this button to add the event to your calendar:
 - [lets systems](https://en.wikipedia.org/wiki/Local_exchange_trading_system)
 - [Islamic Finance and Bitcoin](http://jibfnet.com/journals/jibf/Vol_3_No_1_June_2015/1.pdf)
 - [the complete guide to the kano model](http://foldingburritos.com/kano-model/)
+- [how to get rid of your landlord and socialize american housing in 3 easy steps](http://www.thenation.com/article/how-to-get-rid-of-your-landlord-and-socialize-american-housing-in-3-easy-steps/)
