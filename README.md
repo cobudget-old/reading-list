@@ -33,3 +33,4 @@ and you can click this button to add the event to your calendar:
 - [collaborative credit](http://www.theguardian.com/media-network/media-network-blog/2014/jul/03/collaborative-credit-heal-capitalism)
 - [lets systems](https://en.wikipedia.org/wiki/Local_exchange_trading_system)
 - [Islamic Finance and Bitcoin](http://jibfnet.com/journals/jibf/Vol_3_No_1_June_2015/1.pdf)
+- [the complete guide to the kano model](http://foldingburritos.com/kano-model/)
