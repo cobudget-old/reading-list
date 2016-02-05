@@ -25,6 +25,7 @@ we are currently reading:
 #### savings pools
 
 - [savings pool explained](https://www.ipcuk.events/sites/default/files/media_upload/Savings%20Pools.pdf)
+- [how interest-free banking works: the case of JAK](http://www.feasta.org/documents/review2/carrie2.htm)
 - [money pools: a centuries-old savings tool reinvented](http://www.csmonitor.com/World/Making-a-difference/Change-Agent/2014/0221/Money-pools-a-centuries-old-savings-tool-reinvented)
 
 #### unsorted
