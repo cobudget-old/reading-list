@@ -22,9 +22,13 @@ we are currently reading:
 
 ---
 
+#### savings pools
+
+- [savings pool explained](https://www.ipcuk.events/sites/default/files/media_upload/Savings%20Pools.pdf)
+- [money pools: a centuries-old savings tool reinvented](http://www.csmonitor.com/World/Making-a-difference/Change-Agent/2014/0221/Money-pools-a-centuries-old-savings-tool-reinvented)
+
 #### unsorted
 
-- [money pools: a centuries-old savings tool reinvented](http://www.csmonitor.com/World/Making-a-difference/Change-Agent/2014/0221/Money-pools-a-centuries-old-savings-tool-reinvented)
 - [network inequality:](https://medium.com/@anildash/network-inequality-3309fb1aac59#.nkg4wtkwj) a discussion on prioritizing diversity + inclusion while funding + building new apps
   - [notes (eugene)](https://gist.github.com/data-doge/75fc1c82a7034439604c)
 - [The State of Academic Bitcoin Research 2015](http://suitpossum.blogspot.co.nz/2016/01/bitcoin-research-2015.html)
