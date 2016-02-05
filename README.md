@@ -38,3 +38,4 @@ we are currently reading:
 - [the complete guide to the kano model](http://foldingburritos.com/kano-model/)
 - [how to get rid of your landlord and socialize american housing in 3 easy steps](http://www.thenation.com/article/how-to-get-rid-of-your-landlord-and-socialize-american-housing-in-3-easy-steps/)
 - [cognizant: crowdfunding insurance](http://www.cognizant.com/InsightsWhitepapers/Crowdfunding-Insurance-codex1694.pdf)
+- [Nudge: Improving Decisions About Health, Wealth, and Happiness](http://www.amazon.com/gp/product/B00A5DCALY/)
