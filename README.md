@@ -39,3 +39,4 @@ we are currently reading:
 - [how to get rid of your landlord and socialize american housing in 3 easy steps](http://www.thenation.com/article/how-to-get-rid-of-your-landlord-and-socialize-american-housing-in-3-easy-steps/)
 - [cognizant: crowdfunding insurance](http://www.cognizant.com/InsightsWhitepapers/Crowdfunding-Insurance-codex1694.pdf)
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](http://www.amazon.com/gp/product/B00A5DCALY/)
+- [the credit commons: a money for the solidarity economy](https://docs.google.com/document/d/1B9DO8b7Kzh4evbvU-63bHFw9iPfa9PUetESmTLwjWyI/edit#heading=h.btotoosw5xg1)
